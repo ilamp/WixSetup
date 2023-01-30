@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "WixSetup (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "WixSetup (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}

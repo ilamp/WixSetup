@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/b2LATAtbdAY/0CEKqT/pB/bHx5Q+z7nxJ+ICKxWD4DAWzK0/MN0K6XAv1K0d0ikFO+0t7fhvz2gREcSSn+Jow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dsingh\\source\\repos\\WixSetup\\WixSetup.Core\\WixSetup.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dsingh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
