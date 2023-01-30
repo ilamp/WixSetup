@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WixSetup", "WixSetup\WixSet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WixSetup.Core", "WixSetup.Core\WixSetup.Core.csproj", "{AE36BBC3-2BA9-4ECC-8BBA-A70342303511}"
 EndProject
+Project("{B7DD6F7E-DEF8-4E67-B5B7-07EF123DB6F0}") = "WixSetup.Package", "WixSetup.Package\WixSetup.Package.wixproj", "{0EE3782C-45EF-403A-B282-54537A6E835B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,22 @@ Global
 		{AE36BBC3-2BA9-4ECC-8BBA-A70342303511}.Release|x64.Build.0 = Release|x64
 		{AE36BBC3-2BA9-4ECC-8BBA-A70342303511}.Release|x86.ActiveCfg = Release|x86
 		{AE36BBC3-2BA9-4ECC-8BBA-A70342303511}.Release|x86.Build.0 = Release|x86
+		{0EE3782C-45EF-403A-B282-54537A6E835B}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{0EE3782C-45EF-403A-B282-54537A6E835B}.Debug|Any CPU.Build.0 = Debug|x64
+		{0EE3782C-45EF-403A-B282-54537A6E835B}.Debug|arm64.ActiveCfg = Debug|ARM64
+		{0EE3782C-45EF-403A-B282-54537A6E835B}.Debug|arm64.Build.0 = Debug|ARM64
+		{0EE3782C-45EF-403A-B282-54537A6E835B}.Debug|x64.ActiveCfg = Debug|x64
+		{0EE3782C-45EF-403A-B282-54537A6E835B}.Debug|x64.Build.0 = Debug|x64
+		{0EE3782C-45EF-403A-B282-54537A6E835B}.Debug|x86.ActiveCfg = Debug|x86
+		{0EE3782C-45EF-403A-B282-54537A6E835B}.Debug|x86.Build.0 = Debug|x86
+		{0EE3782C-45EF-403A-B282-54537A6E835B}.Release|Any CPU.ActiveCfg = Release|x64
+		{0EE3782C-45EF-403A-B282-54537A6E835B}.Release|Any CPU.Build.0 = Release|x64
+		{0EE3782C-45EF-403A-B282-54537A6E835B}.Release|arm64.ActiveCfg = Release|ARM64
+		{0EE3782C-45EF-403A-B282-54537A6E835B}.Release|arm64.Build.0 = Release|ARM64
+		{0EE3782C-45EF-403A-B282-54537A6E835B}.Release|x64.ActiveCfg = Release|x64
+		{0EE3782C-45EF-403A-B282-54537A6E835B}.Release|x64.Build.0 = Release|x64
+		{0EE3782C-45EF-403A-B282-54537A6E835B}.Release|x86.ActiveCfg = Release|x86
+		{0EE3782C-45EF-403A-B282-54537A6E835B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

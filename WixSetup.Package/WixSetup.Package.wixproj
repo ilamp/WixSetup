@@ -1,0 +1,12 @@
+﻿<Project Sdk="WixToolset.Sdk/4.0.0-rc.2">
+  <PropertyGroup>
+    <EnableProjectHarvesting>true</EnableProjectHarvesting>
+    <HarvestProjectsSuppressUniqueIds>true</HarvestProjectsSuppressUniqueIds>
+  </PropertyGroup>
+  <ItemGroup>
+    <HarvestProject Include="..\WixSetup\WixSetup.csproj" ProjectOutputGroups="Binaries;Sources" Platform="x64" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="WixToolset.Heat" Version="4.0.0-rc.2" />
+  </ItemGroup>
+</Project>
